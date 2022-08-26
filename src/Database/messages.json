@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "message": "Darakchi obuna bo'ling !",
+        "userId": 2,
+        "created_at": "08:00"
+    },
+    {
+        "id": 2,
+        "message": "Shoook xabar !",
+        "userId": 3,
+        "created_at": "09:00"
+    }
+    
+]

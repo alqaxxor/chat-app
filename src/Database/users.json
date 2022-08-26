@@ -1,0 +1,23 @@
+[
+    {
+        "userId": 1,
+        "username": "sobir",
+        "password": "123456789",
+        "email": "sobir@gmail.com",
+        "avatar": "Artboard1.jpg"
+    },
+    {
+        "userId": 2,
+        "username": "abduqahhor",
+        "password": "4507",
+        "email": "alqaxxor@gmail.com",
+        "avatar": "avengers.jpg"
+    },
+    {
+        "userId": 3,
+        "username": "qodir",
+        "password": "111111",
+        "email": "qodir@gmail.com",
+        "avatar": "photooooo.jpg"
+    }
+]
